@@ -2,8 +2,8 @@
 
 | 년도|프로젝트명| 깃허브링크 |
 | -- | --- | ----|
-|2023| 신용등급| [링크](www.naver.com)|
-|2024| 대출여부 | [링크](www.naver.com)|
+|2023| 신용등급| [링크](https://www.naver.com)|
+|2024| 대출여부 | [링크](https://www.naver.com)|
 
 <!--
 **CapstoneDesign-2/CapstoneDesign-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
